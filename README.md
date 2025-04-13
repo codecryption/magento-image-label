@@ -11,11 +11,11 @@ This will update
 
 CSV should be
 
-| SKU    | IMAGE_NAME |	ALT_TITLE |
-| -------- | ------- |
-| M-2433  | M-2433_1.jpg    |	T-Shirt M |
-| M-2433 | M-2433_2.jpg     |	T-Shirt L |
-| M-2432    | M-2432_1.jpg    |	Paint L |
+| SKU    	| IMAGE_NAME 	|	ALT_TITLE 	|
+| -------- 	| ----------- 	| -------------	|
+| M-2433  	| M-2433_1.jpg  |	T-Shirt M 	|
+| M-2433 	| M-2433_2.jpg  |	T-Shirt L 	|
+| M-2432    | M-2432_1.jpg  |	Paint L 	|
 
 ```bash
 php var/import-image-label.php
